@@ -1,4 +1,4 @@
-# price_of_a_car
+# value_of_a_car
 This project is analysis of a dataset of Car Sales. The data is taken from The original dataset is taken from Kaggle. It was trimmed down for better understasnding and processing.
 The goal of this project is to analyse the dataset and provide recommendations to used car dealerships on what consumers value in the car. The AI/ML analysis is conducted following CRISP-DM framework.
 
